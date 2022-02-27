@@ -1,0 +1,11 @@
+<!--#include file="above.phtml" -->
+<!--#include file="menu.phtml" -->
+
+<!-- Add the body of the content here -->
+
+<iframe title="Dr. Fitzgerald's CV" src="cv.pdf" width="100%" height="1000">
+</iframe>
+
+
+
+<!--#include file="below.phtml" -->

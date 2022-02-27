@@ -1,0 +1,154 @@
+<!--#include file="above.phtml" -->
+<!--#include file="menu.phtml" -->
+
+<!-- Add the body of the content here -->
+
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <ul class="nav">
+            <li class="nav__item nav__item--active nav__item--fill">
+              <a href="#2013" class="nav__link">2013</a>
+            </li>
+            <li class="nav__item">
+              <a href="#2000" class="nav__link">2000-2009</a>
+            </li>
+            <li class="nav__item">
+              <a href="#1990" class="nav__link">1990-1999</a>
+            </li>
+          </ul>
+        </div>
+
+
+        <div class="col-md-9">
+          <ul class="timeline">
+	    <li><br></li>
+	    <li>
+              <div class="type--header">
+		<h2 id="2013" class="timeline__header type--marginless">2013 Publications</h2>
+              </div>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>July 2013 - ETD: An Electronic Thesis and Dissertation Publication System</strong></p>
+	      <p class="timeline__content"> Altman, E., Fitzgerald, S., Messick, U., Rink K., Vigna, K., Weiss, A., Wiegley, J., ETD: An
+	      Electronic Thesis and Dissertation Publication System, USETDA (Electronic Thesis and Dissertation) 2013 Conference, July
+	      2013.</p>
+	    </li>
+
+	    <li><br></li>
+	    <li>
+              <div class="type--header">
+		<h2 id="2000" class="timeline__header type--marginless">2000-2009 Publications</h2>
+              </div>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Apr. 2007 - Abandoned Processes and Orphaned Servers: Lessons Learned and Applied on the
+              Frontline</strong></p>
+              <p class="timeline__content">Fitzgerald, S., Moulton, R., and Weyandt, S., Abandoned Processes and Orphaned Servers: Lessons
+              Learned and Applied on the Frontline, Educause 2007 Security Professionals Conference, Apr. 2007.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>July 2004 - Initiative at CSUN, Secure Identity Management</strong></p>
+              <p class="timeline__content">Fitzgerald, S., Initiative at CSUN, Secure Identity Management Initiative (SIMI) Workshop, California
+		State University System, July 2004.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Feb. 2002 - GOSv3: A Data Definition Language for Grid Information Services</strong></p>
+              <p class="timeline__content">von Laszewski, G., Helm, M., Fitzgerald, S., Vanderbilt, P., Didier, B., Lane, P., and Swany, M.,
+		GOSv3: A Data Definition Language for Grid Information Services, Grid Forum Information Working Group, GWD-GIS-011-5,
+		Feb. 2002.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Aug. 2001 - Grid Information Services for Distributed Resource Sharing</strong></p>
+              <p class="timeline__content">Czajkowski, K., Fitzgerald, S., Foster, I., Kesselman., C., Grid Information Services for Distributed
+		Resource Sharing, Proceedings of the Tenth IEEE International Symposium on High-Performance Distributed Computing (HPDC-10), August
+		2001. <strong>Recognized as Top 20 in 20 HPDC-20.</strong></p>
+	    </li>
+
+
+	    <li><br></li>
+	    <li>
+              <div class="type--header">
+		<h2 id="1990" class="timeline__header type--marginless">1990-1999 Publications</h2>
+              </div>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Aug. 1998 - Application Experiences with the Globus Toolkit</strong></p>
+              <p class="timeline__content">Brunett, S., Czajkowski, K., Fitzgerald, R., Foster, I., Johnson, A., Kesselman, C., Leigh, J., and
+		Tuecke, S., Application Experiences with the Globus Toolkit, Proceedings of the Seventh IEEE Symposium on High Performance
+		Distributed Computing, Aug. 1998. <strong>Recognized as the Top 20 in 20 HPDC-20.</strong></p>
+	    </li>
+	    <li>
+              <p class="timeline__event"><strong>Aug. 1997 - A Directory Service for Configuring High-Performance Distributed Computations</strong></p>
+              <p class="timeline__content">Fitzgerald, S., Foster, I., Kesselman, C., von Laszewski, G., Smith, W., and Tuecke, S., A Directory
+		Service for Configuring High-Performance Distributed Computations, Proceedings of the Sixth IEEE Symposium on High-Performance
+		Distributed Computing, Aug. 1997.</p>
+	    </li>
+	    <li>
+              <p class="timeline__event"><strong>Apr. 1996 - Update-in-place Analysis for True Multidimensional Arrays</strong></p>
+              <p class="timeline__content">Fitzgerald, S., and Oldehoeft, R., Update-in-place Analysis for True Multidimensional Arrays, Journal
+		of Scientific Programming, Apr. 1996.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Oct. 1995 - AGAVE: A Visualization Tool for Parallel Programming</strong></p>
+              <p class="timeline__content">Krintz, C., and Fitzgerald, S., AGAVE: A Visualization Tool for Parallel Programming, IASTED – ISMM
+		International Conference on Parallel and Distributed Computing and Systems}, Washington D.C., Oct. 1995.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Apr. 1995 - Update-in-place Analysis for True Multidimensional Arrays</strong></p>
+              <p class="timeline__content">Fitzgerald, S., and Oldehoeft, R., Update-in-place Analysis for True Multidimensional Arrays, High
+		Performance Functional Computing (HPFC) Conference, Colorado, Apr. 1995.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Oct. 1994 - A Graph Transformation Technique To Exploit Memory Reuse</strong></p>
+              <p class="timeline__content">Fitzgerald, S., Smith, S., and Canning, J., A Graph Transformation Technique To Exploit Memory Reuse,
+		IASTED – ISMM International Conference on Parallel and Distributed Computing and Systems, Washington D.C., Oct. 1994.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>May 1994 - A User-Transparent `Parallel Virtual Machine' (UPVM)</strong></p>
+              <p class="timeline__content">Fitzgerald, S., Hafeez, A., and Smith, S., A User-Transparent `Parallel Virtual Machine' (UPVM), PVM
+		User's and Developers Workshop, Tennessee, May 1994.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Oct. 1993 - Increasing Parallelism for an Optimization that Reduces Copying in IF2 graphs</strong></p>
+              <p class="timeline__content">Fitzgerald, S., Increasing Parallelism for an Optimization that Reduces Copying in IF2 graphs,
+		Proceedings of the Third Annual SISAL Users and Developers Conference, LLNL TR CONF-9310206, Oct. 1993.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Oct. 1993 - Copy Elimination for True Multidimensional Arrays in SISAL 2.0</strong></p>
+              <p class="timeline__content">Fitzgerald, S., Copy Elimination for True Multidimensional Arrays in SISAL 2.0, Proceedings of the
+		Third Annual SISAL Users and Developers Conference, LLNL TR CONF-9310206, Oct. 1993.</p>
+	    </li>
+
+	    <li>
+              <p class="timeline__event"><strong>Jan. 1992 - An Expression Language for the Specification and Implementation of Imaging
+		  Algorithms</strong></p>
+              <p class="timeline__content">Hatfield, D., Fitzgerald, S., and Miner, R., An Expression Language for the Specification and
+		Implementation of Imaging Algorithms, SPIE Conference – Image Processing and Interchange, Jan. 1992.</p>
+	    </li>
+
+
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+<!--#include file="below.phtml" -->

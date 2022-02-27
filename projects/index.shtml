@@ -1,0 +1,46 @@
+<!--#include file="above.phtml" -->
+<!--#include file="menu.phtml" -->
+
+<!-- Add the body of the content here -->
+
+ <div class="section">
+    <div class="container">
+      <div class="row">
+
+
+   	  <h1 class="type--header type--thin">Current Activities
+       </h1>
+<br>
+
+
+<h3>
+Steve's current creative activities involve the exploration and development browser based applications that can be used to support Computer Science education. 
+
+<br>His current projects include:
+
+<ul>
+	<li>A <a href="https://github.com/smf-steve/mips-assembler-simulator">MIPS assembler / simulator</a></li>
+	<li>A Javascript <a href="https://github.com/smf-steve/binaryValues"> binaryValues</a> package</li>
+</ul>
+
+Previously, Steve was exploring various techniques to deliver web-application 
+
+<ul>
+	<li> A <a href="https://github.com/csuntechlab/scgi-daemon"> SCGI Daemon</a>: leveraging the socket program provides a SCGI -> CGI interface</li>
+	<li> A <a href="https://github.com/csuntechlab/fcgi-daemon">FCGI Daemon</a>: leveraging the socket program provides a SCGI -> CGI interface</li>
+	<li> A <a href="https://github.com/csuntechlab/docker-cgi">Docker CGI Daemon</a>: an Apache Handler that CGI program within a docker container</li>
+</ul>
+
+
+All of Steve's project are hosted on <a href="https://github.com/smf-steve">https://github.com/smf-steve</a>
+
+
+
+   </div>
+  </div>
+ </div>
+
+
+
+<!--#include file="below.phtml" -->
+
