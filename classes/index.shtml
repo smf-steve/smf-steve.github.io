@@ -10,14 +10,10 @@
 	  <p class="header--sm"><strong>Current Classes</strong></p>
           <ul class="timeline list--padded">
              <li class="timeline__header" style="text-overflow: ellipsis;">
-               <span class="tag tag--success" title="Last taught Fall 2021"> COMP 122/L (6x) </span></li>
+               <span class="tag tag--success" title="Last taught Fall 2022"> COMP 122/L (10x) </span></li>
              <li class="timeline__header" style="text-overflow: ellipsis;">
-               <span class="tag tag--success" title="Last taught Fall 2021"> COMP 122 (6x) </span></li>
-             <li class="timeline__header" style="text-overflow: ellipsis;">
-               <span class="tag tag--success" title="Last taught Fall 2021"> CIT 384 (2x) </span></li>
-             <li class="timeline__header" style="text-overflow: ellipsis;">
-               <span class="tag tag--success" title="Last taught Fall 2021"> CIT 384L (1x) </span></li>
-	  </ul>
+               <span class="tag tag--success" title="Last taught Spring 2022"> COMP 122 (10x) </span></li>
+  </ul>
 
 	  <hr>
 
@@ -25,6 +21,11 @@
 	  <ul class="timeline list--padded">
       <li class="timeline__header" style="text-overflow: ellipsis;">
          <span class="tag tag--success" title="Last taught Spring 2021">CIT 160/L (10x) </span></li>
+      <li class="timeline__header" style="text-overflow: ellipsis;">
+               <span class="tag tag--success" title="Last taught Fall 2021"> CIT 384 (2x) </span></li>
+     <li class="timeline__header" style="text-overflow: ellipsis;">
+               <span class="tag tag--success" title="Last taught Fall 2021"> CIT 384L (1x) </span></li>
+  
       <li class="timeline__header" style="text-overflow: ellipsis;">
          <span class="tag tag--success" title="Last taugh Spring 2020">CIT 481L (1x) </span></li>
       <li class="timeline__header" style="text-overflow: ellipsis;">
@@ -70,13 +71,6 @@
 
 
       <h1 class="type--header type--thin">My Academic Schedule
-            <div class="pull-right">
-              <label class="sr-only" for="semester">Semester</label>
-              <select name="" id="">
-                <option value="">-- Select Term --</option>
-		<option value="2207" selected="selected">Fall Semester 2022</option>
-              </select>
-            </div>
        </h1>
 <br>
 
