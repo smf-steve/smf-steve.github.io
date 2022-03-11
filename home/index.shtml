@@ -74,25 +74,10 @@
             </ul>
 
 
-
-<!--
-          <div class="column type--center">
-            <div>
-              <div class="panel"><div class="panel__content"><a href="//sandbox.csun.edu/">Advancing Technology Laboratory (@TechLab)</a></div></div>
-            </div>
-            <div >
-              <div class="panel"><div class="panel__content"><a href="//www.csun.edu/compsci">Computer Science</a></div></div>
-            </div>
-          </div>
--->
-
-
         </div>
 
         <div class="col-md-9">
           <h2>Overview</h2>
-
-
 
 <p>Steven Fitzgerald is a Professor of Computer Science at California State University, Northridge, and his teaching focuses on computer information technology (CIT) courses and computer architecture related classes.  His current creative activities involve the development of browser-based applications that support the undergraduate curriculum (<a href="https://github.com/smf-steve">https://github.com/smf-steve</a>).</p>
 
@@ -124,7 +109,7 @@ During his tenure at CSUN, Steve has also held several administrative positions 
         <h3>Team Tenets</h3>
     
         <dl class="accordion">
-          <dt class="accordion__header">Lead by example</dt>
+          <dt class="accordion__header">Lead by example <span style="align: right">+</span></dt>
           <dd class="accordion__content">
             <p>Rather then telling others how to do things and complaining, we need to set an example: determine
     	      what needs to be done and help to get it done.  This could be something as simple as
