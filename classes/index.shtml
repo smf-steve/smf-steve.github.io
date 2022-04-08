@@ -223,6 +223,14 @@
               <td>CIT System Design and Implementation Lab II</td>
               </tr>
               <tr>
+                <td><strong>COMP 122</strong></td>
+              <td>Computer Architecture and Assemble Language </td>
+              </tr>
+              <tr>
+                <td><strong>COMP 122L</strong></td>
+              <td>Computer Architecture and Assemble Language Lab </td>
+              </tr>
+              <tr>
                 <td><strong>COMP 222</strong></td>
               <td>Computer Organization </td>
               </tr>
