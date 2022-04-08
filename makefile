@@ -1,4 +1,4 @@
-DIRS=home classes projects publications
+DIRS=home classes projects publications cv
 
 all: $(DIRS)
 
