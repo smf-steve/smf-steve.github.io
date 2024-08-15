@@ -16,12 +16,6 @@
             <li style="overflow:hidden; text-overflow: ellipsis;"> 
                  <a style="white-space: nowrap; color: #4a4a4a; text-decoration: none;" href=" https://github.com/smf-steve" target="_blank">
                  <i class="fa fa-globe milli type--red"></i> https://github.com/smf-steve </a> </li>
-            <li style="overflow:hidden; text-overflow: ellipsis;"> 
-                 <a style="color: #4a4a4a; text-decoration: none;" href="tel:8186774655">
-                 <i class="fa fa-phone milli type--red"></i> 818-677-4655</a> </li>
-            <li style="overflow:hidden; text-overflow: ellipsis;"> 
-                 <a style="color: #4a4a4a; text-decoration: none;" href="">
-                 <i class="fa fa-map-marker milli type--red"></i> JD4435</a></li>
           </ul>
 
        
