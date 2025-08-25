@@ -8,7 +8,7 @@
           <p class="header--sm"><strong>Contact</strong></p>
           <ul class="list--unstyled">
             <li style="overflow:hidden; text-overflow: ellipsis;"> 
-                 <a style="white-space: nowrap; color: #4a4a4a; text-decoration: none;" href="mailto:steven.fitzgerald@csun.edu">
+                 <a style="white-space: nowrap; color: #4a4a4a; text-decoration: none;" href="mailto:smf.steve.fitzgerald@gmail.com">
                  <i class="fa fa-envelope-o milli type--red"></i> steven.fitzgerald@csun.edu</a> </li>
             <li style="overflow:hidden; text-overflow: ellipsis;"> 
                  <a style="white-space: nowrap; color: #4a4a4a; text-decoration: none;" href="https://smf-steve.github.io" target="_blank">
@@ -48,7 +48,7 @@
           <p class="header--sm"><strong>Academic Positions</strong></p>
             <ul class="timeline">
               <li class="timeline__header" >
-                1994-Present: <strong>Professor</strong><br> Computer Science Department</li>
+                1994-2025: <strong>Professor</strong><br> Computer Science Department</li>
               <li class="timeline__header" style="text-overflow: ellipsis;">
                 <br>2019-2021: <strong>Director</strong><br> @dvancingTechnology Lab</li>
 
@@ -76,14 +76,33 @@
         <div class="col-md-9">
           <h2>Overview</h2>
 
-<p>Steven Fitzgerald is a Professor of Computer Science at California State University, Northridge, and his teaching focuses on computer information technology (CIT) courses and computer architecture related classes.  His current creative activities involve the development of browser-based applications that support the undergraduate curriculum (<a href="https://github.com/smf-steve">https://github.com/smf-steve</a>).</p>
+<p>Steven Fitzgerald is a retired Professor.</p>
 
-<p>In the recent past, Steve was heavily involved in the development of high-impact practices to provide students with hands-on opportunities to build real-world software applications and to manage these systems within both a cloud and on-premise IT environments.  He oversaw the retooling of the department’s Senior Design classes (both COMP and CIT), and also created and directed the META+LAB  (Matador Emerging Technology and Arts Laboratory).  The META+LAB was a multidisciplinary academic unit in which students develop web applications that improved various campus services — including the https://academics.csun.edu/faculty).   Many of the products that were developed have been incorporated into Central IT’s set of supported applications.  When the META+LAB was subsumed into Central IT, Steve established the @dvancing TechLab (Advancing Technology Laboratory) as an high-impact practice for CIT Majors. All of the hosting activities of the @dvancingTech Lab has since been migrated to Central IT.</p>
+<p>During his tenure with the Computer Science department at the California State University, Northridge (CSUN), he held a number of research and administrative positions.  These positions included:</p>
 
-<p>Steve's previous research interests include compiler technology, high-performance computing, identity management, and cloud computing. Steve has participated in a number of research projects associated with Lawrence Livermore National Laboratory, the University of Southern California's Information Sciences Institute, and Lockheed Martin Skunk Works.  Steve was part of the Globus team that coined the term “grid computing”.  Steve was also part of a startup company, Eucalyptus Systems, that developed an on-premise AWS-like cloud software.</p>
+<ul>
+  <li> Director of the Northridge Computational Center (NCC) </li>
+  <li> CSUN's Information Security Officer (ISO) </li>
+  <li> CSUN's Chief Technology Officer (CTO) </li>
+  <li> CSUN's Director of Academic Technology  </li>
+  <li> Director of the Pioneering Technology Group (PTG) </li>
+  <li> Director of the Matador Emerging Technology and Arts Laboratory (META+Lab) </li>
+  <li> Director of the Advancing Technology Laboratory (@dvancing Tech Lab) </li>
+</ul>
 
-<p>
-During his tenure at CSUN, Steve has also held several administrative positions including: Information Security Officer, Director of Academic Technology, and Chief Technology Officer. </p>
+<p>While on various sabbaticals, Steve also held a number of positions outside the University that supported his research activities. These positions included:</p>
+
+<ul>
+  <li> Research Scientist, Lawrence Livermore National Laboratory</li>
+  <li> Research Scientist, Information Sciences Institute at USC</li>
+  <li> VP Technical Services, Eucalyptus System</li>
+</ul>
+
+<p>His previous research interests included compiler technology, high-performance computing, identity management, and cloud computing. Steve was part of the Globus team that coined the term “grid computing”. Steve was also part of a startup company, Eucalyptus Systems, that developed an on-premise AWS-like cloud software.</p>
+
+<p>Along side his teaching activities, Steve was heavily involved in the development of high-impact practices to provide students with hands-on opportunities to build real-world software applications and to manage these systems within both a cloud and on-premise IT environments. He oversaw the retooling of the department’s Senior Design classes (both COMP and CIT) to leverage these high-impact practices.</p>
+
+<p>Throughout his career, Steve participated in, developed, and managed a large number of teams. He is most honored by the opportunity afforded to him to influence his students and team members to greater success. A legacy of life-long learning lessons for all.</p>
 
 
 
